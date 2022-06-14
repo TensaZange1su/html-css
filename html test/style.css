@@ -1,0 +1,53 @@
+*:not(ul,li,figure, img) {
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+    margin-left: 500px;
+}
+th, td {
+    border-collapse: collapse;
+    border: 1px solid #000000;
+}
+
+}
+.spisok{
+    margin-left: 600px;
+}
+.soderzhanie{
+    margin-left: 550px;
+}
+.mydiv{
+    position: relative;
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+.mydiv p{
+    position: relative;
+    width: 60%;
+    height: auto;
+}
+.mydiv img{
+    position: relative;
+    width: auto;
+    height: 300px;
+    float: left;
+}
+.mydiv figcaption{
+    position: relative;
+    width: 380px;
+    height: auto;
+}
+h1,h2,h3,h4,h5 {
+    margin-left: 40%;
+}
+.spisok{
+    margin-left: 650px;
+}
+
